@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<hr></hr>
+
 <h3 align="left">About me: </h3>
 
 - 🌱 I’m currently learning **Javascript, React**
