@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React**
 - 📫 How to reach me: [Email](luisruediger27@gmail.com)
+- ⚡ Fun fact: I like working out 💪 and try to have a healthy life 🥦
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
