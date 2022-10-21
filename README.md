@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luis</h1>
 <h3 align="center">A passionate frontend developer </h3>
 <img align="right" width="50%" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Typescript**
 - 💬 Ask me about **Web development, Javascript**
-- 📫 How to reach me: [Email](luisruediger27@gmail.com)
+- 📫 How to reach me: [E-mail](luisruediger27@gmail.com)
 - 👨‍💻 All of my projects are available at [My portifolio](https://luisruediger.com.br)
 
 
