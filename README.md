@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React, Typescript**
 - 💬 Ask me about **Web development, Javascript**
 - 📫 How to reach me: [E-mail](luisruediger27@gmail.com)
-- 👨‍💻 All of my projects are available at [My portifolio](https://luisruediger.com.br)
+- 👨‍💻 All of my projects are available at [My portfolio](https://luisruediger.com.br)
 
 
 <h3 align="left">Languages and Tools:</h3>
