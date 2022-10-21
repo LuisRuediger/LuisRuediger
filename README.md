@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Typescript**
 - 💬 Ask me about **Web development, Javascript**
-- 📫 How to reach me: [E-mail](luisruediger27@gmail.com)
+- 📫 How to reach me: [E-mail](mailto:luisruediger27@gmail.com)
 - 👨‍💻 All of my projects are available at [My portfolio](https://luisruediger.com.br)
 
 
