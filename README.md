@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<img align="right" width="480" height="405" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"><br/>
+<img align="right" width="50%" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"><br/>
 
 <h3 align="left">About me: </h3>
 
@@ -28,11 +28,4 @@
 <a href="https://linkedin.com/in/luisruediger" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luisruediger" /></a>
 <a href="https://www.instagram.com/luis.ruediger/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="luisruediger" /></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luisruediger&&theme=nord" alt="luisruediger" /></p>
-
-<p><img align="" src="https://github-readme-stats.vercel.app/api?username=luisruediger&show_icons=true&locale=en&theme=nord" alt="luisruediger" /></p>
-
-<p align="center" width="100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisruediger&show_icons=true&locale=en&layout=compact&theme=nord" alt="luisruediger" /></p>
 
